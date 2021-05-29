@@ -1,5 +1,5 @@
 ◇ I’m interested in how to make AI more *'life-like'*.  
-◇ Fields that I have fun are **NLP** and **voice recognition/synthesis**.  
+◇ Fields that I have am interested are **NLP** and **voice recognition/synthesis**.  
 ◇ I'm participating in the school project about making voice agent at the social game.  
 ◇ Related with the project, I currently study how to apply language model to generate intended sentence(NLG) and how to use STT/TTS APIs for ASR.  
 ◇ I would be glad if there's any offer with the field that I mention above.  
