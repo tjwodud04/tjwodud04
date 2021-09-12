@@ -1,4 +1,5 @@
 I am interested in fields related to **NLP** and **Voice**.  
+Especially, I'm interested in **Dialogue System**.  
 Currently, I'm participating in the project about making a voice agent for the social game.  
 Related to the project, I studied how to apply a language model to generate sentence(NLG) and how to use STT(ASR)/TTS SDK for python.  
 
