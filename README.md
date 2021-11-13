@@ -1,4 +1,4 @@
-I am interested in **NLP(Natural Language Processing)** and **Speech**.  
+I am interested in **NLP** and **Speech**.  
 Especially, I'm interested in **[dialogue system](https://en.wikipedia.org/wiki/Dialogue_system)**.  
 Currently, I'm participating in the team project about making a voice agent playing with the player in the social game.  
 
