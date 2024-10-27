@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white"/>
 </a>
   
+#### Greetings
 👋 Hi there! I'm interested in ways AI Assistant can be tailored for unique, personalized experiences.
   
-#### keywords
+#### Keywords
 ```LLM``` ```Persona``` ```Prompt Engineering``` ```TTS/STT``` ```Virtual Avatar```
 
 #### Main Language  
