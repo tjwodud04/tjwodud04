@@ -1,8 +1,4 @@
 #### Profile
-<a href="https://www.linkedin.com/in/jaeyoungsuh" target="_blank">
-  <img src="https://img.shields.io/badge/JaeYoungSuh-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-</a>
-
 <a href="https://scholar.google.com/citations?user=QpEwMCwAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
 </a>  
@@ -12,7 +8,7 @@
 </a>
   
 #### Greetings
-👋 Hi there! I'm interested in ways AI Assistant can be tailored for unique, personalized experiences.
+👋 Hi there! I'm interested in ways AI can be tailored for unique, personalized experiences.
   
 #### Keywords
 ```LLM``` ```Persona``` ```Prompt Engineering``` ```TTS/STT``` ```Virtual Avatar```
