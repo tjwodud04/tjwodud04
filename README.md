@@ -7,7 +7,7 @@
 </a>
 
 #### Greetings
-👋 Hi there! I'm interested in how AI can create unique, personalized user experiences.
+👋 Hi there! I'm interested in how AI can create unique, personalized experiences.
 
 #### Interests
 ```LLM``` ```Persona``` ```Prompt Engineering``` ```TTS/STT``` ```Virtual Avatar```
