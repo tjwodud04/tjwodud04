@@ -16,11 +16,16 @@
 #### Interests
 ```LLM``` ```Persona``` ```Prompt Engineering``` ```TTS/STT``` ```Virtual Avatar```
 
-#### Technical Skills
+#### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,ubuntu,docker,pytorch,obsidian&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,ubuntu,windows,docker,pytorch,latex,obsidian,notion,discord,gmail&theme=dark" alt="Skills" />
   <br/>
-  <img src="https://img.shields.io/badge/n8n-EA4E3D?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4E3D?style=for-the-badge&logo=n8n&logoColor=white"/> 
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude"/> 
+  <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/> 
+  <img src="https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff"/>
 </p>
 
 ---
@@ -28,12 +33,15 @@
 #### 📊 GitHub Metrics
 
 <p>
-  <img src="metrics-base.svg" alt="Base Stats" width="49%" />
-  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" />
+  <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />
+  <img src="metrics-languages.svg" alt="Languages" width="49%" align="top" />  
 </p>
+<br>
 <p>
-  <img src="metrics-languages.svg" alt="Languages" width="49%" />
-  <img src="metrics-habits.svg" alt="Coding Habits" width="49%" />
+  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" align="top" />
+  <img src="metrics-habits.svg" alt="Coding Habits" width="49%" align="top" />
 </p>
-
+<br>
+<p>
 <img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
+</p>
