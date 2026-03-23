@@ -35,15 +35,16 @@
 #### 📊 GitHub Metrics
 
 <p>
-  <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwodud04&layout=compact&langs_count=7&theme=default" alt="Top Languages" width="49%" align="top" />  
-</p>
-<br>
-<p>
-  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" align="top" />
+  <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />  
   <img src="metrics-habits.svg" alt="Coding Habits" width="49%" align="top" />
+    
 </p>
 <br>
 <p>
-<img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
+  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" align="top" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwodud04&layout=compact&langs_count=7&theme=default" alt="Top Languages" width="29%" align="top" />
+</p>
+<br>
+<p>
+<img src="metrics-stargazers.svg" alt="Stargazers" width="100%" align="top" />
 </p>
