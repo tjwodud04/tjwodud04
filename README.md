@@ -36,7 +36,7 @@
 
 <p>
   <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />
-  <img src="metrics-languages.svg" alt="Languages" width="49%" align="top" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwodud04&layout=compact&langs_count=7&theme=default" alt="Top Languages" width="49%" align="top" />  
 </p>
 <br>
 <p>
