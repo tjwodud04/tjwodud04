@@ -31,17 +31,13 @@
 
 #### 📊 GitHub Metrics
 
-<!-- Isometric Commit Calendar -->
-<img src="metrics-base.svg" alt="GitHub Stats & Isocalendar" width="100%" />
+<p>
+  <img src="metrics-base.svg" alt="GitHub Stats & Isocalendar" width="49%" />
+  <img src="metrics-languages-indepth.svg" alt="Languages (Indepth)" width="49%" />
+</p>
+<p>
+  <img src="metrics-stargazers.svg" alt="Stargazers" width="49%" />
+  <img src="metrics-topics.svg" alt="Topics" width="49%" />
+</p>
 
-<!-- Languages -->
-<img src="metrics-languages-indepth.svg" alt="Languages (Indepth)" width="100%" />
-
-<!-- Stargazers -->
-<img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
-
-<!-- Starred Topics -->
-<img src="metrics-topics.svg" alt="Topics" width="100%" />
-
-<!-- Featured Repositories -->
 <img src="metrics-repositories.svg" alt="Repositories" width="100%" />
