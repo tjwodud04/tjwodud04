@@ -35,10 +35,7 @@
 <img src="metrics-base.svg" alt="GitHub Stats & Isocalendar" width="100%" />
 
 <!-- Languages -->
-<p>
-  <img src="metrics-languages-indepth.svg" alt="Languages (Indepth)" width="49%" />
-  <img src="metrics-languages-recent.svg" alt="Languages (Recent)" width="49%" />
-</p>
+<img src="metrics-languages-indepth.svg" alt="Languages (Indepth)" width="100%" />
 
 <!-- Stargazers -->
 <img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
