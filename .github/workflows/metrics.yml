@@ -1,0 +1,80 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      # ===== Base Stats + Isometric Calendar (Half Year) =====
+      - name: Base Stats & Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-base.svg
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+
+      # ===== Languages - Indepth =====
+      - name: Languages (Indepth)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-languages-indepth.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 8
+
+      # ===== Languages - Recently Used =====
+      - name: Languages (Recently Used)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-languages-recent.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_limit: 8
+
+      # ===== Stargazers (Classic Charts) =====
+      - name: Stargazers
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-stargazers.svg
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 0
+
+      # ===== Starred Topics (With Icons) =====
+      - name: Topics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-topics.svg
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+      # ===== Featured Repositories =====
+      - name: Featured Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-repositories.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6

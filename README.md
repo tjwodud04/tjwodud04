@@ -26,3 +26,25 @@
 
 #### Messenger
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+
+---
+
+#### 📊 GitHub Metrics
+
+<!-- Isometric Commit Calendar -->
+<img src="metrics-base.svg" alt="GitHub Stats & Isocalendar" width="100%" />
+
+<!-- Languages -->
+<p>
+  <img src="metrics-languages-indepth.svg" alt="Languages (Indepth)" width="49%" />
+  <img src="metrics-languages-recent.svg" alt="Languages (Recent)" width="49%" />
+</p>
+
+<!-- Stargazers -->
+<img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
+
+<!-- Starred Topics -->
+<img src="metrics-topics.svg" alt="Topics" width="100%" />
+
+<!-- Featured Repositories -->
+<img src="metrics-repositories.svg" alt="Repositories" width="100%" />
