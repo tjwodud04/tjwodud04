@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;Exploring+AI+as+a+companion+in+human+interactions;How+the+right+components+create+meaningful+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;Exploring+AI+as+a+companion+in+human+interactions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,9 +18,9 @@
 
 #### Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,ubuntu,docker,pytorch,discord,slack,obsidian&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,ubuntu,docker,pytorch,obsidian&theme=dark" alt="Skills" />
   <br/>
-  <img src="https://img.shields.io/badge/n8n-EA4E3D?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4E3D?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
