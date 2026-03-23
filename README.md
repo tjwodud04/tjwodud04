@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;AI+%7C+LLM+%7C+Prompt+Engineering;Building+personalized+AI+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;Exploring+AI+as+a+companion+in+human+interactions;How+the+right+components+create+meaningful+experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,21 +18,10 @@
 
 #### Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,ubuntu,docker,pytorch,discord,slack,obsidian&theme=dark" alt="Skills" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu,docker&theme=dark" alt="Tools" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,react,nextjs&theme=dark" alt="Frameworks" />
+  <img src="https://img.shields.io/badge/n8n-EA4E3D?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-
-#### AI Models / AI Assistants
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_Code-FF6A00?style=flat-square&logo=anthropic&logoColor=white"/>
-
-#### Automation & Workflow
-<img src="https://img.shields.io/badge/n8n-EA4E3D?style=flat-square&logo=n8n&logoColor=white"/>
-
-#### Messenger
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
 ---
 
@@ -46,7 +35,5 @@
   <img src="metrics-languages.svg" alt="Languages" width="49%" />
   <img src="metrics-habits.svg" alt="Coding Habits" width="49%" />
 </p>
-<p>
-  <img src="metrics-stargazers.svg" alt="Stargazers" width="49%" />
-  <img src="metrics-topics.svg" alt="Topics" width="49%" />
-</p>
+
+<img src="metrics-stargazers.svg" alt="Stargazers" width="100%" />
