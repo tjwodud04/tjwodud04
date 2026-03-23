@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;Exploring+AI+as+a+companion+in+human+interactions" alt="Typing SVG" />
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=tjwodud04&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 #### Profile

@@ -29,7 +29,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
 
-      # ===== Languages (Indepth, most-used) =====
+      # ===== Languages (Indepth, most-used, top 7) =====
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -40,9 +40,9 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
           plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_limit: 7
+          plugin_languages_analysis_timeout: 10
+          plugin_languages_analysis_timeout_repositories: 3
 
       # ===== Coding Habits (Recent) =====
       - name: Coding Habits
@@ -53,14 +53,13 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          plugin_habits_charts: no
           plugin_habits_days: 14
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           config_timezone: Asia/Seoul
 
-      # ===== Stargazers (Classic Charts) =====
+      # ===== Stargazers (Classic Charts, recent 14 days) =====
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
@@ -70,5 +69,5 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 0
+          plugin_stargazers_days: 14
           config_display: large
