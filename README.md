@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jae+Young+Suh+%F0%9F%91%8B;Exploring+AI+as+a+companion+in+human+interactions" alt="Typing SVG" />
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=tjwodud04&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tjwodud04&style=flat-square&color=blue&label=Total+Views" alt="Total Views" />
+  <img src="https://hits.sh/github.com/tjwodud04/tjwodud04.svg?style=flat-square&label=Daily+Views&color=blue" alt="Daily Views" />
 </p>
 
 #### Profile
@@ -35,14 +36,13 @@
 #### 📊 GitHub Metrics
 
 <p>
-  <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />  
+  <img src="metrics-base.svg" alt="Base Stats" width="49%" align="top" />
   <img src="metrics-habits.svg" alt="Coding Habits" width="49%" align="top" />
-    
 </p>
 <br>
 <p>
-  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" align="top" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwodud04&layout=compact&langs_count=7&theme=default" alt="Top Languages" width="29%" align="top" />
+  <img src="metrics-isocalendar.svg" alt="Isocalendar" width="49%" align="top" />
+  <img src="metrics-languages.svg" alt="Top Languages" width="49%" align="top" />
 </p>
 <br>
 <p>

@@ -47,6 +47,19 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_habits_trim: yes
 
+      # ===== Languages =====
+      - name: Languages
+        uses: tjwodud04/metrics@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics-languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_limit: 7
+
       # ===== Stargazers (Classic Charts, recent 14 days) =====
       - name: Stargazers
         uses: tjwodud04/metrics@master
