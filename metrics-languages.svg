@@ -16,19 +16,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 6.70mb of code in 492 edited files across 222 commits</small>
+                <small>estimation from 7.07mb of code in 571 edited files across 234 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.92831591663443" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="203.92831591663443" y="0" width="161.87373186493554" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="365.80204778156997" y="0" width="51.36431981046878" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="417.1663675920388" y="0" width="19.488078064342098" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="436.65444565638086" y="0" width="13.863176289832635" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="450.51762194621347" y="0" width="8.417390896402894" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.93501284261635" y="0" width="1.064987157383625" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.99565518844403" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="172.99565518844403" y="0" width="155.83426540500915" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="328.8299205934532" y="0" width="49.27536807725699" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="378.1052886707102" y="0" width="43.502510136900305" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.6077988076105" y="0" width="18.6089451067727" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="440.21674391438313" y="0" width="12.654228890314865" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="452.870972804698" y="0" width="7.129027195301961" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -45,6 +45,12 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TSX
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
@@ -57,21 +63,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        TSX
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         SCSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
                     </div>
                 </div>
                 <div class="row footnote warning">
